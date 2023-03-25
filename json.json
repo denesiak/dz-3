@@ -1,0 +1,23 @@
+{
+  "Student ID": 1,
+  "Student`s Name": "Ivan",
+  "Date of Birth": "12.12.2000",
+  "Age": 22,
+  "Birthplace": "Lviv",
+  "Grade Level": "Master",
+  "Social Security Number": 12334566788,
+  "ZIP": 123,
+  "Subjects": [
+    "Math",
+    "English",
+    "Science",
+    "History"
+  ],
+  "Married": false,
+  "Children": null,
+  "Actual Address": {
+    "Country": "UA",
+    "City": "Lviv"
+  },
+  "Description": "some text for testing"
+}

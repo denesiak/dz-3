@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<Student_ID>1</Student_ID>
+	<Student`s_Name>Ivan</Student`s_Name>
+	<Date_of_Birth>12.12.2000</Date_of_Birth>
+	<Age>22</Age>
+	<Birthplace>Lviv</Birthplace>
+	<Grade_Level>Master</Grade_Level>
+	<Social_Security_Number>12334566788</Social_Security_Number>
+	<ZIP>123</ZIP>
+	<Subjects>Math</Subjects>
+	<Subjects>English</Subjects>
+	<Subjects>Science</Subjects>
+	<Subjects>History</Subjects>
+	<Married>false</Married>
+	<Children />
+	<Actual_Address>
+		<Country>UA</Country>
+		<City>Lviv</City>
+	</Actual_Address>
+	<Description>some text for testing</Description>
+</root>
